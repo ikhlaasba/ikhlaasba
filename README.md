@@ -1,6 +1,4 @@
-- 👋 Hi, I’m @ikhlaasba
-- 👀 I’m interested in discovering new creative thoughts which probably can be applied on computer sciences
+- ^_^  Hi, I’m @ikhlaasba
 - 🌱 I’m currently learning programming languages such as python , C , JS and discovering more about operation system and AI(to summarise , i'm a CS student)
-- 💞️ I’m looking to collaborate on a new project ideas especially concerning education topics
 - 📫 this is my email : bahiaikhlas@gmail.com
-- ⚡ Fun fact: i admire existential books and why not projects 
+   
